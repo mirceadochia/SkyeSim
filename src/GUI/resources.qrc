@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="history-icon">history-icon.png</file>
+        <file alias="right-arrow-icon">arrow-right-icon.png</file>
+        <file alias="left-arrow-icon">arrow-left-icon.png</file>
+        <file alias="app-icon-large">../../icons/128x128/apps/flightgear.png</file>
+        <file alias="spinner">spinner.gif</file>
+        <file alias="heliport-icon">heliport-icon.png</file>
+        <file alias="seaport-icon">seaport-icon.png</file>
+        <file alias="vor-icon">vor-icon.png</file>
+        <file alias="vortac-icon">vortac-icon.png</file>
+        <file alias="waypoint-icon">waypoint-icon.png</file>
+        <file alias="ndb-icon">ndb-icon.png</file>
+        <file alias="airport-icon">airport-icon.png</file>
+        <file alias="airport-tower-icon">airport-tower-icon.png</file>
+        <file alias="vor-dme-icon">vor-dme-icon.png</file>
+        <file alias="seaport-tower-icon">seaport-tower-icon.png</file>
+        <file alias="ndb-small-icon">ndb-small-icon.png</file>
+        <file alias="ndb-large-icon">ndb-large-icon.png</file>
+        <file alias="airplane-icon">airplane-icon.png</file>
+        <file alias="airport-closed-icon">airport-closed-icon.png</file>
+        <file alias="preview-icon">preview-icon.png</file>
+        <file alias="settings-gear-white">settings-gear-white.png</file>
+        <file alias="toolbox-aircraft">toolbox-aircraft.png</file>
+        <file alias="toolbox-environment">toolbox-environment.png</file>
+        <file alias="toolbox-fly">toolbox-fly.png</file>
+        <file alias="toolbox-location">toolbox-location.png</file>
+        <file alias="toolbox-settings">toolbox-settings.png</file>
+        <file alias="toolbox-summary">toolbox-summary.png</file>
+        <file alias="toolbox-addons">toolbox-addons.png</file>
+        <file>AircraftList.qml</file>
+        <file>AircraftRating.qml</file>
+        <file>ArrowButton.qml</file>
+        <file>AircraftDownloadPanel.qml</file>
+        <file>Button.qml</file>
+        <file>AircraftWarningPanel.qml</file>
+        <file>Scrollbar.qml</file>
+    </qresource>
+    <qresource prefix="/preview">
+        <file alias="close-icon">preview-close.png</file>
+        <file alias="left-arrow-icon">preview-left-arrow.png</file>
+        <file alias="right-arrow-icon">preview-right-arrow.png</file>
+    </qresource>
+    <qresource prefix="/settings">
+        <file alias="downloads">DownloadSettings.qml</file>
+        <file alias="general">GeneralSettings.qml</file>
+        <file alias="mp">MPSettings.qml</file>
+        <file alias="render">RenderSettings.qml</file>
+        <file alias="view">ViewSettings.qml</file>
+    </qresource>
+    <qresource prefix="/environment">
+        <file alias="time">TimeSettings.qml</file>
+        <file alias="weather">Weather.qml</file>
+    </qresource>
+</RCC>
